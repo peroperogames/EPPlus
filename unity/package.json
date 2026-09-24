@@ -14,5 +14,13 @@
     "type": "git",
     "url": "https://github.com/peroperogames/epplus.git",
     "directory": "unity"
+  },
+  "dependencies": {
+    "org.nuget.system.security.cryptography.xml": "10.0.12",
+    "org.nuget.microsoft.extensions.configuration.abstractions": "10.0.12",
+    "org.nuget.microsoft.io.recyclablememorystream": "3.0.1",
+    "org.nuget.microsoft.extensions.configuration": "10.0.12",
+    "org.nuget.microsoft.extensions.configuration.fileextensions": "10.0.12",
+    "org.nuget.microsoft.extensions.configuration.json": "10.0.12"
   }
 }
